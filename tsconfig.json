@@ -7,10 +7,7 @@
       ]
     },
     "outDir": "./dist/out-tsc",
-<<<<<<< HEAD
-=======
     "baseUrl": "src",
->>>>>>> 4268e33e0131d4f2b2013d44c5a00ccda987a421
     "sourceMap": true,
     "declaration": false,
     "moduleResolution": "node",
@@ -21,11 +18,7 @@
       "node_modules/@types"
     ],
     "lib": [
-<<<<<<< HEAD
-      "es2017",
-=======
       "es2016",
->>>>>>> 4268e33e0131d4f2b2013d44c5a00ccda987a421
       "dom"
     ]
   }

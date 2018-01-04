@@ -1,11 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-<<<<<<< HEAD
-    "name": "moayad"
-=======
     "name": "angular-cli-heroku-boilerplate"
->>>>>>> 4268e33e0131d4f2b2013d44c5a00ccda987a421
   },
   "apps": [
     {
@@ -48,18 +44,6 @@
   },
   "lint": [
     {
-<<<<<<< HEAD
-      "project": "src/tsconfig.app.json",
-      "exclude": "**/node_modules/**"
-    },
-    {
-      "project": "src/tsconfig.spec.json",
-      "exclude": "**/node_modules/**"
-    },
-    {
-      "project": "e2e/tsconfig.e2e.json",
-      "exclude": "**/node_modules/**"
-=======
       "project": "src/tsconfig.app.json"
     },
     {
@@ -67,7 +51,6 @@
     },
     {
       "project": "e2e/tsconfig.e2e.json"
->>>>>>> 4268e33e0131d4f2b2013d44c5a00ccda987a421
     }
   ],
   "test": {

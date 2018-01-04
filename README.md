@@ -1,32 +1,3 @@
-<<<<<<< HEAD
-# Moayad
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
 # Angular CLI Heroku Boilerplate
 This README outlines how to quickly deploy your Angular CLI project to Heroku.
 
@@ -73,4 +44,3 @@ Please star this repository to help it gain exposure.
 
 ## Other Boilerplates
 Looking for an Angular boilerplate without CLI?  Check out [this repository](https://github.com/AryanJ-NYC/angular-4-heroku-boilerplate).
->>>>>>> 4268e33e0131d4f2b2013d44c5a00ccda987a421
